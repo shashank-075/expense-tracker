@@ -3,35 +3,35 @@ A simple client-side web application for tracking income and expenses. Users can
 
 The UI and structure is defined in 'index.html', 'style.css', with logic impllemented in 'script.js'.
 
-#**Features**
+# **Features**
 
-*Add transactions with description and amount
-*Income vs. expense categorization
-*Running balance calculation
-*Deletion of individual transactions
-*Responsive and styled interface
-*Animated list entries
+* Add transactions with description and amount
+* Income vs. expense categorization
+* Running balance calculation
+* Deletion of individual transactions
+* Responsive and styled interface
+* Animated list entries
 
-#**How It Works**
+# **How It Works**
 
-*User enters a description and amount.
-*Form submission triggers JavaScript to:
-*Classify the transaction as income or expense
-*Update the totals and balance
-*Render a transaction item in the list
-*Each transaction includes a delete control to remove it and calculate totals.
+* User enters a description and amount.
+* Form submission triggers JavaScript to:
+* Classify the transaction as income or expense
+* Update the totals and balance
+* Render a transaction item in the list
+* Each transaction includes a delete control to remove it and calculate totals.
 
-#**Tech Stack**
+# **Tech Stack**
 
-*HTML5
-*CSS3 (Flexbox, Grid, animations)
-*JavaScript (vanilla, no frameworks)
+* HTML5
+* CSS3 (Flexbox, Grid, animations)
+* JavaScript (vanilla, no frameworks)
 
-#**Usage**
+# **Usage**
 
 Clone or download the repository and open index.html in any modern browser:
-'''
+```
 $ open index.html
-'''
+```
 No dependencies or build steps are required.
 
